@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "element-theme-chalk": "^2.0.5",
+    "element-theme-chalk": "~2.0.5",
     "element-ui": "^2.0.3",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
